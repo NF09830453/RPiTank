@@ -1,2 +1,2 @@
 # RPiTank
-![image](https://github.com/user-attachments/assets/f01c2de1-ec49-4171-9fec-53ce5e6f91ea)
+![image](https://github.com/user-attachments/assets/49d83c51-a807-4aab-a2bc-fa52a46898a5)
